@@ -1,0 +1,32 @@
+Privacy Policy for "Tate Clock Motivation Sound"
+
+Effective Date: October 10, 2024
+1. Introduction
+
+Welcome to "Tate Clock Motivation Sound"! Your privacy is extremely important to us. This Privacy Policy outlines how we handle your personal information when you use our app, in compliance with Google Play's data privacy policies.
+2. Data Collection
+
+"Tate Clock Motivation Sound" does not collect, store, or transmit any personal data from users. The application operates completely offline on your device, and no internet or external server connections are made.
+3. Permissions
+
+The app requires certain permissions to function properly. These permissions are strictly for enabling alarm functions, notifications, and vibration services. No personal data is collected or used via these permissions. Specifically, the app requests:
+
+    Alarm & Notification Permissions: For setting and managing alarms.
+    Vibration Permission: To enable haptic feedback and vibration for alarms.
+    Foreground Service Permission: To keep the alarm active when the device is asleep. The app does not use these permissions for tracking or any other purposes that violate user privacy.
+
+4. Log Files
+
+Our app does not create or maintain any log files or diagnostic data that could identify users or track user activity. Any temporary logs (if generated for internal processing) remain strictly on the device and are automatically cleared when the app is closed.
+5. Data Security
+
+As "Tate Sound Motivation Clock" does not collect or transmit any data, no additional data security measures are required beyond the inherent security provided by your device. All functions are performed locally, and no information is shared with third parties.
+6. Third-Party Services
+
+This app does not integrate with or transmit data to any third-party services. No advertising or external analytics services are used, ensuring that your information remains private and secure.
+7. Changes to This Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. If we make significant changes, we will notify you by updating the "Effective Date" at the top of this page. We encourage you to review this Privacy Policy periodically for any updates.
+8. Contact Information
+
+If you have any questions or concerns regarding this Privacy Policy or the "Tate Clock Motivation Sound," please contact us at: dbn0dev0labs@gmail.com.
